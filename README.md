@@ -52,7 +52,7 @@ digital-bookshelf-api/
 
 ```bash
 git clone https://github.com/structbase/Digital-Bookshelf-API
-cd digital-bookshelf-api
+cd Digital-Bookshelf-API
 ```
 
 ### 2. Install dependencies
